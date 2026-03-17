@@ -25,7 +25,7 @@
             <li class="nav-items"><a href="#">Movies</a></li>
             <li class="nav-items"><a href="#">Sports</a></li>
             <li class="nav-items"><a href="#">New premium</a></li>
-            <li class="nav-items"><a href="#">MUsic</a></li>
+            <li class="nav-items"><a href="#">Classic MUsic</a></li>
             <li class="icon"><a href="#"></a></li>
         </ul>
 
