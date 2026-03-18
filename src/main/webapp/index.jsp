@@ -21,7 +21,7 @@
     <nav class="navbar">
         <img src="./assets/img/logo (1).svg" class="logo" alt="Logo">
         <ul class="nav-links">
-            <li class="nav-items"><a href="#">TV</a></li>
+            <li class="nav-items"><a href="#">MITS</a></li>
             <li class="nav-items"><a href="#">Movie Blast</a></li>
             <li class="nav-items"><a href="#">Games1234</a></li>
             <li class="nav-items"><a href="#">MITS123</a></li>
