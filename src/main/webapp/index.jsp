@@ -23,7 +23,7 @@
         <ul class="nav-links">
             <li class="nav-items"><a href="#">MITS</a></li>
             <li class="nav-items"><a href="#">Movie Blast</a></li>
-            <li class="nav-items"><a href="#">Games1234</a></li>
+            <li class="nav-items"><a href="#">Games</a></li>
             <li class="nav-items"><a href="#">MITS123</a></li>
             <li class="nav-items"><a href="#">music mantra</a></li>
             <li class="icon"><a href="#"></a></li>
